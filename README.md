@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="center">I'm Lucas. Welcome to my GitHub. (:</h2>
+<h3 align="center">A Software Engineering student from 42 São Paulo - Brazil</h3>
 
-<!--
-**LukkazZ12/LukkazZ12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukkazZ12&label=Profile%20views&color=0e75b6&style=flat" alt="LukkazZ12" /> </p>
 
-Here are some ideas to get you started:
+<h3 align=center>42 Projects:</h3>
+<p align="center">
+<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft"/></a>
+<a href="https://github.com/LukkazZ12/42Cursus/tree/master/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Contact me:</h3>
+<p align="center">
+LinkedIn: https://linkedin.com/in/lucas-de-souza-santos-10256a165
+</p>
+<p align="center">
+E-mail: lucas.souza.santos12@outlook.com
+</p>
