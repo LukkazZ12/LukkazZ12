@@ -1,11 +1,11 @@
 <h2 align="center">I'm Lucas. Welcome to my GitHub. (:</h2>
 <h3 align="center">A Software Engineering student from 42 São Paulo - Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukkazZ12&label=Profile%20views&color=0e75b6&style=flat" alt="LukkazZ12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukkazZ12&label=Profile%20views&color=0e75b6&style=flat" alt="LukkazZ12"/> </p>
 
 <h3 align=center>42 Projects:</h3>
 <p align="center">
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png"/>
+<img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="phase_one" height="42" width="42"/>
 <br />
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/000-libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft"/></a>
 <a href="https://github.com/LukkazZ12/42Cursus/tree/master/001-get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line"/></a>
