@@ -5,15 +5,15 @@
 
 <h3 align=center>42 Projects:</h3>
 <p align="center">
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="phase_one" height="42" width="42"/>
+<img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="phase_one"/>
 <br />
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/000-libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft" height="100" width="100"/></a>
-<a href="https://github.com/LukkazZ12/42Cursus/tree/master/001-get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line"/></a>
-<a href="https://github.com/LukkazZ12/42Cursus/tree/master/002-ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="ft_printf"/></a>
+<a href="https://github.com/LukkazZ12/42Cursus/tree/master/001-get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line" height="100" width="100"/></a>
+<a href="https://github.com/LukkazZ12/42Cursus/tree/master/002-ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="ft_printf" height="100" width="100"/></a>
 <br />
-<a href="https://github.com/LukkazZ12/42Cursus/tree/master/003-born2beroot"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="born2beroot"/></a>
-<a href="https://github.com/LukkazZ12/42Cursus/tree/master/004-FdF"><img src="https://game.42sp.org.br/static/assets/achievements/fdfm.png" alt="FdF"/></a>
-<a href="https://github.com/LukkazZ12/42Cursus/tree/master/005-minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk"/></a>
+<a href="https://github.com/LukkazZ12/42Cursus/tree/master/003-born2beroot"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="born2beroot" height="100" width="100"/></a>
+<a href="https://github.com/LukkazZ12/42Cursus/tree/master/004-FdF"><img src="https://game.42sp.org.br/static/assets/achievements/fdfm.png" alt="FdF" height="100" width="100"/></a>
+<a href="https://github.com/LukkazZ12/42Cursus/tree/master/005-minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" height="100" width="100"/></a>
 </p>
 
 <h3 align="center">Contact me:</h3>
