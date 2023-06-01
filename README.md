@@ -17,7 +17,7 @@
 <p align="center">
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two"><img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" alt="phase_two" height="120" width="120"/>
 <br />
-<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two/10-push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swap.png" alt="push_swap" height="100" width="100"/></a>
+<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two/10-push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" alt="push_swap" height="100" width="100"/></a>
 </a>
 </p>
 
