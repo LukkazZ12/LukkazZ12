@@ -5,7 +5,7 @@
 
 <h3 align=center>42 Projects:</h3>
 <p align="center">
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="phase_one" height="120" width="120"/>
+<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/0-phase_one"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" alt="phase_one" height="120" width="120"/>
 <br />
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/0-phase_one/00-libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft" height="100" width="100"/></a>
 <a href="https://github.com/LukkazZ12/42Cursus/tree/master/0-phase_one/01-get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="get_next_line" height="100" width="100"/></a>
