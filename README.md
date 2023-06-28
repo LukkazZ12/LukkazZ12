@@ -1,5 +1,6 @@
-<h2 align="center">I'm Lucas. Welcome to my GitHub. (:</h2>
-<h3 align="center">A Software Engineering student from 42 São Paulo - Brazil</h3>
+## I'm Lucas. Welcome to my GitHub. (:
+### Software Engineering student from [42 São Paulo](https://www.42sp.org.br/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukkazZ12&label=Profile%20views&color=0e75b6&style=flat" alt="LukkazZ12"/> </p>
 
@@ -23,9 +24,10 @@
 </p>
 
 <h3 align="center">Contact me:</h3>
-<p align="center">
-LinkedIn: https://linkedin.com/in/lucas-de-souza-santos-10256a165
-</p>
+<div align="center"> 
+  
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=fe6e95&logoColor=white)](https://www.linkedin.com/in/lucas-de-s-santos/)
+</div>
 <p align="center">
 E-mail: lucas.souza.santos12@outlook.com
 </p>
