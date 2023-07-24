@@ -20,6 +20,7 @@
 <br />
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two/10-push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" height="100" width="100"/></a>
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two/11-minishell"><img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" alt="minishell" height="100" width="100"/></a>
+<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two/12-philosophers"><img src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" alt="philosophers" height="100" width="100"/></a>
 </a>
 </p>
 
