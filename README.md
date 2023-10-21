@@ -16,7 +16,7 @@
 <a href="https://github.com/LukkazZ12/42Cursus/tree/master/0-phase_one/05-minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" height="100" width="100"/></a>
 
 <p align="center">
-<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two"><img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" alt="phase_two" height="120" width="120"/>
+<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two"><img src="https://game.42sp.org.br/static/assets/achievements/phase_twom.png" alt="phase_two" height="120" width="120"/>
 <br />
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two/10-push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" height="100" width="100"/></a>
 <a href ="https://github.com/LukkazZ12/42Cursus/tree/master/1-phase_two/11-minishell"><img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" alt="minishell" height="100" width="100"/></a>
