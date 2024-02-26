@@ -26,6 +26,13 @@
 </a>
 </p>
 
+<p align="center">
+<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/2-phase_three"><img src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" alt="phase_three" height="120" width="120"/>
+<br />
+<a href ="https://github.com/LukkazZ12/42Cursus/tree/master/2-phase_three/20-CPP"><img src="https://game.42sp.org.br/static/assets/achievements/cppe.png" alt="cpp" height="100" width="100"/></a>
+</a>
+</p>
+
 <h3 align="center">Contact me:</h3>
 <div align="center"> 
   
